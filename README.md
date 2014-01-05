@@ -14,7 +14,7 @@ chmod g+rw /etc/haproxy/haproxy.cong
 
 As user:
 
-``bash
+```bash
 bundle
 bundle exec nerve --config nerve.conf
 bundle exec synapse --config synapse.conf
